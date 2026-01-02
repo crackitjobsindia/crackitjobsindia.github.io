@@ -1,2 +1,2 @@
+# app-ads.txt for Neon Color Rush
 google.com, pub-6669902257895253, DIRECT, f08c47fec0942fa0
-contact=crackitjobsindia@gmail.com
